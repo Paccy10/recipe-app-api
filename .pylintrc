@@ -1,2 +1,2 @@
 [MESSAGES CONTROL]
-disable = no-member,missing-module-docstring,missing-class-docstring,abstract-method,invalid_name
+disable = no-member,missing-module-docstring,missing-class-docstring,abstract-method,invalid_name,consider-iterating-dictionary
